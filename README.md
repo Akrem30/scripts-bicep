@@ -1,6 +1,7 @@
 <font size='4'>Modules Bicep pour déployer ModernRecrut sur Azure : </font>
 
-Ce dépôt contient des modules Bicep permettant de créer des ressources Azure pour héberger l'application ModernRecrut (https://github.com/Akrem30/ModernRecrut). Il y a trois modules :
+Ce dépôt contient des modules Bicep permettant de créer des ressources Azure pour héberger l'application ModernRecrut (https://github.com/Akrem30/ModernRecrut). 
+Il contient trois modules :
 
 -AppServices : ce module crée les plans de service et les App Services nécessaires pour chaque microservice de ModernRecrut.
 
@@ -11,6 +12,8 @@ Ce dépôt contient des modules Bicep permettant de créer des ressources Azure 
 <font size='3'> Prérequis : </font>
 
 -Un abonnement Azure actif
+
 -Azure CLI installé
+
 -L'extension bicep installée pour Azure CLI
 
